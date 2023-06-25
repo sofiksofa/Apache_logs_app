@@ -16,4 +16,5 @@ Apache-parser позволяет вам анализировать и взаим
  
 1. Склонируйте репозиторий проекта:
 
+https://github.com/sofiksofa/Apache_logs_app.git
    
