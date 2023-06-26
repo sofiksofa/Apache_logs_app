@@ -51,7 +51,7 @@ Apache-parser позволяет вам анализировать и взаим
    ```
 3. Подключение к MySQL и вывод данных в приложение осуществляется одной кнопкой.
    После того как вы нажмете на нее, выйдет сообщение о положительном или отрицательном подключении, в зависимости от правильности подключения:
-   <img src=""C:\Users\Huawei PC\Pictures\Screenshots\Снимок экрана 2023-06-25 202050.png""  width="300" height="200">
+
    ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/02c99e12-7e18-4eee-bb52-6e4d127f8dea)
 
    ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/b0e77a98-d27b-4682-830b-c43858df93d0)
