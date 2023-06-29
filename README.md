@@ -54,17 +54,17 @@ Apache-parser позволяет вам анализировать и взаим
 
    ![image](https://github.com/sofiksofa/Apache_logs_app/blob/sofiksofa-screenshots-1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-06-25%20201358.png)
 
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/b0e77a98-d27b-4682-830b-c43858df93d0)
+   ![image](https://github.com/sofiksofa/Apache_logs_app/blob/sofiksofa-screenshots-1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-06-25%20201504.png)
    
    Далее вы увидите данные в текстовом блоке:
    
-   ![image](Снимок экрана 2023-06-25 201504.png)
+   ![image]()
    
 4. Кнопка "Фильтр по IP" подключается к базе данных и извлекает из таблицы данные сгруппированные по IP:
    
    ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/d4caad32-d908-44ca-89d3-a4102fa9f382)
 
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/355ca097-5910-49f7-8250-aa134eed0f8b)
+   ![image](https://github.com/sofiksofa/Apache_logs_app/blob/sofiksofa-screenshots-1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-06-25%20201640.png)
    
 5. Кнопка "Фильтр по дате" подключается к базе данных и извлекает из таблицы данные сгруппированные по дате:
    
