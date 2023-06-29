@@ -68,15 +68,15 @@ Apache-parser позволяет вам анализировать и взаим
    
 5. Кнопка "Фильтр по дате" подключается к базе данных и извлекает из таблицы данные сгруппированные по дате:
    
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/0b5a145c-35cb-4432-b3e1-b4ae73b39e50)
+   ![image]()
 
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/3e12a639-a7ec-4a08-a6e4-03ab74a9e215)
+   ![image]()
    
-6. Кнопка "Фильтр по дате" также извлекает из таблицы базы данных информацию, но только ту которая входит во вписанный вручную диапазон:
+6. Кнопка "Фильтр по промежутку даты" также извлекает из таблицы базы данных информацию, но только ту которая входит во вписанный вручную диапазон:
     
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/a2dc72ac-a474-4fd8-b439-2f147368625e)
+   ![image]()
    
-   ![image](https://github.com/sofiksofa/Apache_logs_app/assets/137713536/ac8a3eea-92de-4481-a700-37a5e676dc47)
+   ![image](https://github.com/sofiksofa/Apache_logs_app/blob/sofiksofa-screenshots-1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-06-25%20201829.png)
 
 <h3>Создание задачи</h3>
 
